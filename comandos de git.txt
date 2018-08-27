@@ -13,3 +13,7 @@ PASOS A SEGUIR PARA CADA COMMIT
 2-git add .
 3-git commit -m "mensaje"
 
+PASOS PARA SUBIR A LA WEB
+
+1-git push origin master
+
